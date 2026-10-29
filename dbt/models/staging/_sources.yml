@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: tp_raw
+    schema: tp_raw
+    tables:
+      - name: viajes
+      - name: clima
+
+  - name: new_york_taxi_trips
+    database: bigquery-public-data
+    schema: new_york_taxi_trips
+    tables:
+      - name: taxi_zone_geom
