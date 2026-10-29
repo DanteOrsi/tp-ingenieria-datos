@@ -1,0 +1,13 @@
+[
+  {"name": "vendor_id", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "pickup_datetime", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "dropoff_datetime", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "passenger_count", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "trip_distance", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "pickup_location_id", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "dropoff_location_id", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "payment_type", "type": "INTEGER", "mode": "NULLABLE"},
+  {"name": "fare_amount", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "tip_amount", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "total_amount", "type": "STRING", "mode": "NULLABLE"}
+]

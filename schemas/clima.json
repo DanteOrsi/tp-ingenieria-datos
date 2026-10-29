@@ -1,0 +1,7 @@
+[
+  {"name": "fecha_hora", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "temperatura_c", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "precipitacion_mm", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "viento_kmh", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "codigo_clima", "type": "STRING", "mode": "NULLABLE"}
+]
