@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: viajes_validos
+    columns:
+      - name: vendor_id
+        tests:
+          - not_null
+      - name: trip_distance
+        tests:
+          - not_null
+      - name: con_lluvia
+        tests:
+          - not_null
